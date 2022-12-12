@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Okiyo Stephen</h1>
-<h3 align="center">A passionate backend developer.</h3>
+<h3 align="center">Backend developer- SpringBoot Java</h3>
 <img align="right" alt="coding" width ="400" src ="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoki45&label=Profile%20views&color=0e75b6&style=flat" alt="yoki45" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **okiyostephen@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
