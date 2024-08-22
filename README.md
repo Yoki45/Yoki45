@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Dockers and Kubernetes**
 
-- 💬 Ask me about **Java, Spring-boot, Python, Django**
+- 💬 Ask me about **Java, Spring-boot, J2EE, Docker**
 
 - 📫 How to reach me **okiyostephen@gmail.com**
 
