@@ -3,7 +3,7 @@
 <h3 align="center">Backend developer- SpringBoot Java</h3>
 <img align="right" alt="coding" width ="400" src ="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprinterval.com%2Fuk%2Fcomputer-science-python-programmer-eat-code-sleep-coffee-mug-p220706&psig=AOvVaw3ZQytgGvm_qD1wDsGqHRGT&ust=1724654677278000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCSjNfFj4gDFQAAAAAdAAAAABAE/?username=yoki45&label=Profile%20views&color=0e75b6&style=flat" alt="yoki45" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoki45&label=Profile%20views&color=0e75b6&style=flat" alt="yoki45" /> </p>
 
 - 🌱 I’m currently learning **Dockers and Kubernetes**
 
